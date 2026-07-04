@@ -88,7 +88,7 @@ payoff yet.
 
 ## What's intentionally out of scope
 
-These were identified as low resume-value / high effort during
+These were identified as  high effort during
 planning, and skipped in favor of hardening what's already built:
 
 - `&&` / `||` logical operators
